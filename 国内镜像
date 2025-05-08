@@ -1,0 +1,5 @@
+##清华
+（cpu）
+pip3 install torch torchvision torchaudio -f https://pypi.tuna.tsinghua.edu.cn/simple
+（gpu）
+pip3 install torch torchvision torchaudio -f https://pypi.tuna.tsinghua.edu.cn/simplepip install torch torchvision torchaudio --extra-index-url https://pypi.tuna.tsinghua.edu.cn/simple
